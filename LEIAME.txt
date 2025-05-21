@@ -1,0 +1,15 @@
+Para uma melhor utilização do programa siga esses passos:
+    1. Cadastre um Curso utilizando a opção (5).
+        1.1 Vincule uma ou várias Disciplinas a esse Curso no submenu.
+    
+    2. Cadastre um Professor utilizando a opção (6).
+
+    3. Liste os Professores com a opção (3).
+        3.1 Vincule um Curso a um Professor fazendo uso do submenu.
+
+    4. Cadastre Alunos selecionando a opção (4).
+    
+    5. Liste os Alunos selecionando a opção (1).
+        5.1 Vincule um Aluno a um Curso com o submenu.
+    
+    7. Agora utilize as opções confome deseje.
